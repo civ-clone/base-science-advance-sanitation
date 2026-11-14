@@ -13,7 +13,8 @@
   "files": [
     "Sanitation.js",
     "Sanitation.d.ts",
-    "Sanitation.js.map"
+    "Sanitation.js.map",
+    "Sanitation.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
